@@ -91,6 +91,8 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+
+
     // ***
     // TODO - Task 1 - Show Store Information Activity
     // ***
